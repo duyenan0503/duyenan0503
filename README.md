@@ -1,17 +1,15 @@
-## Hello World 👋
-
-# Hi, I'm An (Nguyen Dinh Duyen An)
-
-**Major:** **BSc Global Economics & Finance** @ The Chinese University of Hong Kong   
-
+## Hello World 👋 I'm An (Nguyen Dinh Duyen An)
 
 ## About Me
 
-I'm a finance student passionate about the intersection of **quantitative methods, financial markets, and data-driven decision-making**. I've interned across sales & trading, quant risk and equity research. I'm always looking for ways to use code to solve real financial problems.
+**Major:** **BSc Global Economics & Finance** @ The Chinese University of Hong Kong   
+**Exchange**: **McComb Business School** @ The University of Texas at Austin 
+
+I am a finance student passionate about the intersection of **quantitative methods, financial markets, and data-driven decision-making**. I have interned across sales & trading, quant risk and equity research. I'm always looking for ways to use code to solve real financial problems.
 
 - Incoming **Sales & Trading Summer Intern @ Bank of America** (Jun–Aug 2026)
 - Former **Quant Risk Analytics Intern @ Dymon Asia Capital** - built Python tools for options pricing, Greeks, and stress testing
-- Former **Sales & Trading Intern @ HSBC** - credit trading, structured products, and VBA automation
+- Former **Sales & Trading Summer Intern @ HSBC** - credit trading, structured products, and VBA automation
 - Former **Equity Research Intern @ JAKK Capital** - TMT sector coverage, DCF modeling
 
 
@@ -22,7 +20,7 @@ I'm a finance student passionate about the intersection of **quantitative method
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
@@ -31,7 +29,7 @@ I'm a finance student passionate about the intersection of **quantitative method
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
@@ -47,6 +45,9 @@ I'm a finance student passionate about the intersection of **quantitative method
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="40" height="40"/>
   </a>
 </p>
 
@@ -66,7 +67,6 @@ I'm a finance student passionate about the intersection of **quantitative method
 - Avid reader
 - Senior Volunteer Leader @ **Hears for Hue** - annual service trips to Central Vietnam
 
----
 
 ## 📬 Let's Connect
 
