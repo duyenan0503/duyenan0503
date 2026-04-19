@@ -4,6 +4,7 @@
 
 **Major:** **BSc Global Economics & Finance** @ The Chinese University of Hong Kong   
 
+
 ## About Me
 
 I'm a finance student passionate about the intersection of **quantitative methods, financial markets, and data-driven decision-making**. I've interned across sales & trading, quant risk and equity research. I'm always looking for ways to use code to solve real financial problems.
@@ -13,7 +14,6 @@ I'm a finance student passionate about the intersection of **quantitative method
 - Former **Sales & Trading Intern @ HSBC** - credit trading, structured products, and VBA automation
 - Former **Equity Research Intern @ JAKK Capital** - TMT sector coverage, DCF modeling
 
----
 
 ## Tech Stack
 
