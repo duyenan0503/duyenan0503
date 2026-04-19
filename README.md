@@ -1,4 +1,4 @@
-## Hello World 👋 I'm An (Nguyen Dinh Duyen An)
+## Hello World 👋 I'm An 
 
 ## About Me
 
@@ -51,7 +51,7 @@ I am a finance student passionate about the intersection of **quantitative metho
 
 ## What You'll Find Here
 
-- **Python projects** in quantitative finance — options pricing, risk analytics, portfolio tools
+- **Python projects** in quantitative finance - options pricing, risk analytics, portfolio tools
 - **Financial modeling** scripts and automation utilities
 - Experiments in **scenario & stress testing** frameworks
 
