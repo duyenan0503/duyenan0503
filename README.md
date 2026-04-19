@@ -31,9 +31,6 @@ I am a finance student passionate about the intersection of **quantitative metho
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" width="40" height="40"/>
   </a>
@@ -68,7 +65,7 @@ I am a finance student passionate about the intersection of **quantitative metho
 - Senior Volunteer Leader @ **Hears for Hue** - annual service trips to Central Vietnam
 
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyendinhduyenan/)
 
