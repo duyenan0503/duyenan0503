@@ -50,11 +50,6 @@ I'm a finance student passionate about the intersection of **quantitative method
   </a>
 </p>
 
-📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=duyenan0503&show_icons=true&theme=default&hide_border=true&count_private=true" alt="An's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyenan0503&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" height="160"/>
-</p>
 
 ## What You'll Find Here
 
