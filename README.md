@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-# Hi, I'm An (Nguyen Dinh Duyen An) 👋
+# Hi, I'm An (Nguyen Dinh Duyen An)
 
 **Major:** **BSc Global Economics & Finance** @ The Chinese University of Hong Kong   
 
@@ -9,23 +9,52 @@
 I'm a finance student passionate about the intersection of **quantitative methods, financial markets, and data-driven decision-making**. I've interned across sales & trading, quant risk and equity research. I'm always looking for ways to use code to solve real financial problems.
 
 - Incoming **Sales & Trading Summer Intern @ Bank of America** (Jun–Aug 2026)
-- Former **Quant Risk Analytics Intern @ Dymon Asia Capital** — built Python tools for options pricing, Greeks, and stress testing
-- Former **Sales & Trading Intern @ HSBC** — credit trading, structured products, and VBA automation
-- Former **Equity Research Intern @ JAKK Capital** — TMT sector coverage, DCF modeling
+- Former **Quant Risk Analytics Intern @ Dymon Asia Capital** - built Python tools for options pricing, Greeks, and stress testing
+- Former **Sales & Trading Intern @ HSBC** - credit trading, structured products, and VBA automation
+- Former **Equity Research Intern @ JAKK Capital** - TMT sector coverage, DCF modeling
 
 ---
 
 ## Tech Stack
 
-```python
-skills = {
-    "Languages":   ["Python", "VBA", "SQL", "STATA"],
-    "Finance":     ["Bloomberg Terminal", "DCF Modeling", "Options Pricing",
-                    "Risk Analytics", "Derivatives Greeks"],
-    "Tools":       ["Excel", "Power BI", "PowerPoint"],
-    "Currently":   ["Expanding Python quant finance toolkit"]
-}
-```
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" alt="R" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+  </a>
+</p>
+
+📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=duyenan0503&show_icons=true&theme=default&hide_border=true&count_private=true" alt="An's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyenan0503&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" height="160"/>
+</p>
 
 ## What You'll Find Here
 
@@ -47,4 +76,4 @@ skills = {
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyendinhduyenan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendinhduyenan.cuhk@gmail.com)
+
