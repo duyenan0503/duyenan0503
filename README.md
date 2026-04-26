@@ -7,7 +7,6 @@
 
 I am a finance student passionate about the intersection of **quantitative methods, financial markets, and data-driven decision-making**. I have interned across sales & trading, quant risk and equity research. I'm always looking for ways to use code to solve real financial problems.
 
-- Incoming **Sales & Trading Summer Intern @ Bank of America** (Jun–Aug 2026)
 - Current **Quant Risk Analytics Intern @ Dymon Asia Capital** - built Python tools for options pricing, Greeks, and stress testing
 - Former **Sales & Trading Summer Intern @ HSBC** - credit trading, structured products, and VBA automation
 - Former **Equity Research Intern @ JAKK Capital** - TMT sector coverage, DCF modeling
